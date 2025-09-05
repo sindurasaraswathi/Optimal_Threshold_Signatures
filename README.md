@@ -8,5 +8,5 @@
 ## Taproot
 Use functions in taproot_module.py to construct taptree, visualize taptree, get p2tr address, create p2tr transactions in testnet. Implementation is based on [1].
 
-##References
+## References
 [1] https://programmingbitcoin.com/programming-taproot/
