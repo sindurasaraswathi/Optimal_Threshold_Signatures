@@ -39,7 +39,7 @@ from witness import Witness
 
 URL = {
     "mainnet": "https://blockstream.info/api",
-    "testnet": "https://blockstream.info/testnet/api",
+    "testnet": "https://mempool.space/testnet4/api",
     "signet": "https://mempool.space/signet/api",
 }
 
